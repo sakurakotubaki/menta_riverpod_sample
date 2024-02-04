@@ -1,0 +1,2 @@
+# menta_riverpod_sample
+MENTA用のサンプルコード
